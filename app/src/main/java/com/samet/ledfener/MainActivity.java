@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
 
     //Tamam kanks
 
+    //adamsın pampa
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
